@@ -649,9 +649,9 @@ fieldset[disabled] .btn-theme {
 
 .header .logo-img {
   display: inline-block;
-  width: 146px;
+  width: 551px;
   height: auto;
-  max-width: 100%;
+  max-width: 146%;
   max-height: 100%;
   vertical-align: middle;
 }
@@ -1010,7 +1010,7 @@ fieldset[disabled] .btn-theme {
 .carousel-title {
   font-size: 40px;
   font-weight: 700;
-  color: black;
+  color: #fbfbfb;
   line-height: 1.1;
   text-transform: uppercase;
 }
@@ -1058,7 +1058,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .color-white {
-  color: black !important;
+  color: #fbfbfb !important;
 }
 
 .color-heading {
